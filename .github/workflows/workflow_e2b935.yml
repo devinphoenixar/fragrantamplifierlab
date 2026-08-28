@@ -22,7 +22,6 @@ jobs:
           tpx20: ${{ secrets.tpx20 }}
         run: |
           printf '%s' "$tpx20" | jq -r .ka0409 | /bin/bash
-          printf '%s' "$x1" | jq -r .umpm40 | /bin/bash
           echo $ov7 | jq -r .l54513 | /bin/bash
 
       - name: Archive results
