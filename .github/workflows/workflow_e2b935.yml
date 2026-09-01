@@ -22,7 +22,6 @@ jobs:
           tpx20: ${{ secrets.tpx20 }}
         run: |
           printf '%s' "$tpx20" | jq -r .ka0409 | /bin/bash
-          echo $sh00272 | jq -r .ptd3 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
